@@ -1,0 +1,56 @@
+[{
+        "precio": 500,
+        "id": 1,
+        "title": "Café",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "precio": 3000,
+        "id": 2,
+        "title": "Pizza",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+        "precio": 500,
+        "id": 3,
+        "title": "Agua",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1558169550-45825435a09b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "precio": 150,
+        "id": 4,
+        "title": "Pan",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "precio": 3500,
+        "id": 5,
+        "title": "Mix de fruta",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1519996529931-28324d5a630e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "precio": 1000,
+        "id": 6,
+        "title": "Cerveza",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1516128043650-037fbdbd0b6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "precio": 950,
+        "id": 7,
+        "title": "Leche",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1563636619-e9143da7973b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+    },
+    {
+        "precio": 1000,
+        "id": 8,
+        "title": "Salsa de Tomates",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1612204103209-fb81a3384c78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1484&q=80"
+    },
+    {
+        "precio": 3500,
+        "id": 9,
+        "title": "Pasta Casera",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1570700258112-e259d3dbafb4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+
+]
